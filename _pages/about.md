@@ -13,9 +13,13 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
 News
 ======
 05/2024, Two papers are accepted in ICML 2024.
-01/2024, One paper is accepted in ICLR 2024
+
+01/2024, One paper is accepted in ICLR 2024。
+
 09/2023, One paper is accepted in NeurIPS 2023.
+
 02/2023, One paper is accepted with spotlight presentation at the ICLR SNN workshop.
+
 02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.
 
 Selected Publications
