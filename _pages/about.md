@@ -27,7 +27,7 @@ Selected Publications
     .publication-card {
       padding: 15px;
       margin-bottom: 10px;
-      border: 1px solid #f0f0f0;  /* Very light gray border */
+      border: 2px solid #d0d0d0;  /* Very light gray border */
       border-radius: 5px;
       transition: box-shadow 0.3s ease, border 0.3s ease;
     }
