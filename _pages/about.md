@@ -10,7 +10,7 @@ redirect_from:
 
 Gen Li is a third-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/) and co-advised by Prof. [Linlke Guo](https://cecas.clemson.edu/~linkeg/index.html). His primary research focuses on efficient Machine Learning, algorithm-hardware co-design for mobile devices, and fairness and robustness in broad AI applications.
 
-News
+🔥 News
 ======
 <div style="background-color: #d3d3d3; padding: 3px; border-radius: 5px;">
   <p>05/2024, Two papers are accepted in ICML 2024.</p>
