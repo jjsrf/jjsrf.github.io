@@ -60,6 +60,12 @@ Selected Publications
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Lu Yin, You Wu, Zhenyu Zhang, Cheng-Yu Hsieh, Yaqing Wang, Yiling Jia, Gen Li, Ajay Jaiswal, Mykola Pechenizkiy, Yi Liang, Michael Bendersky, Zhangyang Wang, Shiwei Liu</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
   </div>
+
+  <div class="publication-card">
+    <h3 style="margin: 5px 0;">NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization</h3>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Lu Yin, Jie Ji, Wei Niu, Minghai Qin, Bin Ren, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span></p>
+  </div>
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Dynamic Sparsity Is Channel-Level Sparsity Learner</h3>
@@ -74,10 +80,4 @@ Selected Publications
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%</p>
   </div>
 
-  <!-- Third Paper -->
-  <div class="publication-card">
-    <h3 style="margin: 5px 0;">NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Lu Yin, Jie Ji, Wei Niu, Minghai Qin, Bin Ren, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span></p>
-  </div>
 </div>
