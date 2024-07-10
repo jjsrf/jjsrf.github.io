@@ -46,7 +46,7 @@ Selected Publications
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: ～18%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9%</p>
   </div>
   
   <div class="publication-card">
