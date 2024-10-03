@@ -12,6 +12,10 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
 
 🔥 News
 ======
+09/2024, One paper is accepted in NeurIPS 2024
+
+09/2024, One paper is accepted in S&P 2025
+
 07/2024, One paper is accepted in ECCV 2024
 
 05/2024, Two papers are accepted in ICML 2024.
