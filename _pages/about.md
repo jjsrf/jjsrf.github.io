@@ -15,7 +15,16 @@ You can find my CV here:__
 
 [Email](jji@g.clemson.edu)/[Githu](https:..)[Wechat](../images/wechat.jpg)
 
-A data-driven personal website
+News
+09/2024, One paper is accepted in NeurIPS 2024
+
+07/2024, One paper is accepted in ECCV 2024
+
+05/2024, Two papers are accepted in ICML 2024.
+
+01/2024, One paper is accepted in ICLR 2024.
+
+02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
