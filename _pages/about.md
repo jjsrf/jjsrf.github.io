@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Gen Li is a third-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/) and co-advised by Prof. [Linlke Guo](https://cecas.clemson.edu/~linkeg/index.html). His primary research focuses on efficient Machine Learning, algorithm-hardware co-design for mobile devices, and fairness and robustness in broad AI applications.
+Jie Ji is a second-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/). His primary research focuses on deep learning, sparse neural networks, and efficient on-device model optimization.
 
 🔥 News
 ======
 09/2024, One paper is accepted in NeurIPS 2024
-
-09/2024, One paper is accepted in S&P 2025
 
 07/2024, One paper is accepted in ECCV 2024
 
@@ -23,8 +21,6 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
 01/2024, One paper is accepted in ICLR 2024.
 
 09/2023, One paper is accepted in NeurIPS 2023.
-
-02/2023, One paper is accepted with spotlight presentation at the ICLR SNN workshop.
 
 02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.
 
