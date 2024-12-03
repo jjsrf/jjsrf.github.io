@@ -44,8 +44,8 @@ Selected Publications
   <div class="publication-card">
     <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training
 </h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>    
   </div>
 
   <!-- Second Paper -->
@@ -57,8 +57,8 @@ Selected Publications
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Advancing Dynamic Sparse Training by Exploring Optimization Opportunities</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
   </div>
   
   <div class="publication-card">
