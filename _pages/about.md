@@ -20,8 +20,6 @@ Jie Ji is a second-year Ph.D. student at Clemson University, under the supervisi
 
 01/2024, One paper is accepted in ICLR 2024.
 
-09/2023, One paper is accepted in NeurIPS 2023.
-
 02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.
 
 
