@@ -39,19 +39,20 @@ Selected Publications
       border-color: #d0d0d0;  /* Slightly darker gray color on hover */
     }
   </style>
-
-  <!-- First Paper -->
-  <div class="publication-card">
-    <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9%</p>
-  </div>
+  
 
   <div class="publication-card">
     <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training
 </h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji*, Gen Li*, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
+  </div>
+
+  <!-- Second Paper -->
+  <div class="publication-card">
+    <h3 style="margin: 5px 0;">Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting</h3>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li*, Jie Ji*, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%</p>
   </div>
   
   <div class="publication-card">
@@ -60,6 +61,11 @@ Selected Publications
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>
   </div>
   
+  <div class="publication-card">
+    <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9%</p>
+  </div>
 
   <div class="publication-card">
     <h3 style="margin: 5px 0;">NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization</h3>
@@ -67,12 +73,5 @@ Selected Publications
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span></p>
   </div>
   
-
-  <!-- Second Paper -->
-  <div class="publication-card">
-    <h3 style="margin: 5px 0;">Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Jie Ji, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%</p>
-  </div>
 
 </div>
