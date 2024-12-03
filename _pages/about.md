@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jie Ji is a second-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/). His primary research focuses on deep learning, sparse neural networks, and efficient on-device model optimization.
+Jie Ji is a second-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/). Her primary research focuses on deep learning, sparse neural networks, and efficient on-device model optimization.
 
 🔥 News
 ======
