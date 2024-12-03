@@ -57,7 +57,7 @@ Selected Publications
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Advancing Dynamic Sparse Training by Exploring Optimization Opportunities</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji*, Gen Li*, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>
   </div>
   
