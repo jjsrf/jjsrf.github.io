@@ -10,23 +10,42 @@ redirect_from:
 
 Gen Li is a third-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/) and co-advised by Prof. [Linlke Guo](https://cecas.clemson.edu/~linkeg/index.html). His primary research focuses on efficient Machine Learning, algorithm-hardware co-design for mobile devices, and fairness and robustness in broad AI applications.
 
-🔥 News
-======
-09/2024, One paper is accepted in NeurIPS 2024
+<div style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <style>
+    .news-container {
+      width: 300px; /* Fixed width */
+      height: 200px; /* Fixed height */
+      border: 1px solid #dfdfdf; /* Light gray border */
+      border-radius: 5px;
+      padding: 10px;
+      overflow-y: auto; /* Enable vertical scrolling */
+      background-color: #f9f9f9; /* Light background color */
+    }
+    .news-container h2 {
+      margin: 0 0 10px; /* Compact title spacing */
+      font-size: 18px; /* Adjust font size */
+      color: #333; /* Darker text for title */
+    }
+    .news-item {
+      margin: 0;
+      padding: 2px 0; /* Reduce padding for compactness */
+      font-size: 14px; /* Smaller font for compact display */
+      color: #555; /* Slightly muted text color */
+    }
+  </style>
 
-09/2024, One paper is accepted in S&P 2025
-
-07/2024, One paper is accepted in ECCV 2024
-
-05/2024, Two papers are accepted in ICML 2024.
-
-01/2024, One paper is accepted in ICLR 2024.
-
-09/2023, One paper is accepted in NeurIPS 2023.
-
-02/2023, One paper is accepted with spotlight presentation at the ICLR SNN workshop.
-
-02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.
+  <div class="news-container">
+    <h2>🔥 News</h2>
+    <p class="news-item">09/2024, One paper is accepted in NeurIPS 2024.</p>
+    <p class="news-item">09/2024, One paper is accepted in S&P 2025.</p>
+    <p class="news-item">07/2024, One paper is accepted in ECCV 2024.</p>
+    <p class="news-item">05/2024, Two papers are accepted in ICML 2024.</p>
+    <p class="news-item">01/2024, One paper is accepted in ICLR 2024.</p>
+    <p class="news-item">09/2023, One paper is accepted in NeurIPS 2023.</p>
+    <p class="news-item">02/2023, One paper is accepted with spotlight presentation at the ICLR SNN workshop.</p>
+    <p class="news-item">02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.</p>
+  </div>
+</div>
 
 
 Selected Publications
