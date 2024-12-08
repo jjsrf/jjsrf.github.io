@@ -44,9 +44,39 @@ Selected Publications
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       border-color: #d0d0d0;  /* Slightly darker gray color on hover */
     }
+        .pdf-logo {
+      position: absolute;
+      bottom: 10px; /* Adjust as needed */
+      right: 10px; /* Adjust as needed */
+      width: 24px; /* Set the size of the PDF icon */
+      height: 24px;
+    }
+    .pdf-logo img {
+      width: 100%; /* Ensure the image fills the anchor */
+      height: 100%;
+      display: block;
+    }
   </style>
 
   <!-- First Paper -->
+  
+  <div class="publication-card">
+    <h3 style="margin: 5px 0;">Adversarial Robust ViT-based Automatic Modulation Recognition in Practical Deep Learning-based Wireless Systems</h3>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Chun-Chih Lin, Xiaonan Zhang, Xiaolong Ma, Linke Guo</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3%</p>
+    <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
+      <img src="coulsonlee.github.io/images/pdf.png" alt="PDF Logo" />
+    </a>
+
+  </div>
+
+  <div class="publication-card">
+    <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training</h3>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>
+  </div>
+  
+  
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
