@@ -29,11 +29,12 @@ author:
   employer         : "Clemson University"
   uri              : # URL
   email            : "jji@g.clemson.edu" 
+  wechat_qr        : "/images/wechat_qr.JPG"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=aoGaDN4AAAAJ&hl=en"
-  wechat_qr         : "/images/wechat_qr.JPG"
+  
   
 
   # Repositories and software development
