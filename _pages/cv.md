@@ -1,3 +1,5 @@
+[Download My CV (PDF)](/files/CV_Jie.pdf)
+
 ---
 layout: archive
 title: "CV"
