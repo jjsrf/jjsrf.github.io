@@ -36,8 +36,9 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
     }
   </style>
 
+🔥 News
+======
   <div class="news-container">
-    <h2>🔥 News</h2>
     <p class="news-item">09/2024, One paper is accepted in NeurIPS 2024.</p>
     <p class="news-item">09/2024, One paper is accepted in S&P 2025.</p>
     <p class="news-item">07/2024, One paper is accepted in ECCV 2024.</p>
@@ -82,14 +83,12 @@ Selected Publications
   <!-- First Paper -->
   
   <div class="publication-card">
-   <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="publication-card" target="_blank" rel="noopener noreferrer">
     <h3 style="margin: 5px 0;">Adversarial Robust ViT-based Automatic Modulation Recognition in Practical Deep Learning-based Wireless Systems</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Chun-Chih Lin, Xiaonan Zhang, Xiaolong Ma, Linke Guo</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3%</p>
-<!--     <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
+    <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
       <img src="images/pdf.png" alt="PDF Logo" />
-    </a> -->
-   </a>
+    </a>
   </div>
 
   <div class="publication-card">
