@@ -36,8 +36,8 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if site.author.wechat %}
-        <a href="{{ site.author.wechat }}" target="_blank">
+      {% if author.wechat %}
+        <a href="{{ author.wechat }}" target="_blank">
           <i class="fab fa-weixin"></i> <!-- Font Awesome icon for WeChat -->
         </a>
       {% endif %}
