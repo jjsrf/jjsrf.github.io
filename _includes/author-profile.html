@@ -20,6 +20,7 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -36,11 +37,8 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.wechat %}
-        <a href="{{ author.wechat }}" target="_blank">
-          <i class="fab fa-weixin"></i> <!-- Font Awesome icon for WeChat -->
-        </a>
-      {% endif %}
+      
+
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -161,6 +159,11 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}   
+
+      <div class="wechat-contact">
+  <i class="fab fa-weixin"></i>
+  <a href="{{ site.author.wechat_qr }}" target="_blank">WeChat</a>
+</div>
       
     </ul>
   </div>
