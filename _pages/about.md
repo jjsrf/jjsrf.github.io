@@ -86,23 +86,20 @@ Selected Publications
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Adversarial Robust ViT-based Automatic Modulation Recognition in Practical Deep Learning-based Wireless Systems</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Chun-Chih Lin, Xiaonan Zhang, Xiaolong Ma, Linke Guo</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3%</p>
-    <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
-      <img src="pdf.png" alt="PDF Logo"/>
-    </a>
-  </div>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3% &middot; [Paper Link](https://cecas.clemson.edu/~linkeg/index.html](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs)</p>
+ </div>
 
   <div class="publication-card">
     <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8% &middot; [Paper Link](https://openreview.net/forum?id=MJgMMqMDu4) </p>
   </div>
   
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9% &middot; [Paper Link](https://arxiv.org/abs/2407.02813) </p>
   </div>
   
   <div class="publication-card">
