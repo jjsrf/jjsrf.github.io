@@ -17,8 +17,8 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
       max-width: 1200px; /* Optional: set a maximum width for readability */
       height: 300px; /* Fixed height */
       border: 1px solid #dfdfdf; /* Light gray border */
-      border-radius: 5px;
-      padding: 7px;
+      border-radius: 3px;
+      padding: 3px;
       overflow-y: auto; /* Enable vertical scrolling */
       background-color: #f9f9f9; /* Light background color */
       margin: 0 auto; /* Center the container */
