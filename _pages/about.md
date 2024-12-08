@@ -116,32 +116,53 @@ Selected Publications
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Advancing Dynamic Sparse Training by Exploring Optimization Opportunities</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji*, Gen Li*, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5% &middot; <a href="https://openreview.net/forum?id=szRHR9XGrY" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
+
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Outlier weighed layerwise sparsity (owl): A missing secret sauce for pruning llms to high sparsity</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Lu Yin, You Wu, Zhenyu Zhang, Cheng-Yu Hsieh, Yaqing Wang, Yiling Jia, Gen Li, Ajay Jaiswal, Mykola Pechenizkiy, Yi Liang, Michael Bendersky, Zhangyang Wang, Shiwei Liu</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5% &middot; <a href="https://arxiv.org/abs/2310.05175" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
 
   <div class="publication-card">
     <h3 style="margin: 5px 0;">NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Lu Yin, Jie Ji, Wei Niu, Minghai Qin, Bin Ren, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span>
+    &middot; Acceptance rate: 31% &middot; <a href="https://openreview.net/forum?id=60lNoatp7u" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Dynamic Sparsity Is Channel-Level Sparsity Learner</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Lu Yin, Gen Li, Meng Fang, Li Shen, Tianjin Huang, Zhangyang Wang, Vlado Menkovski, Xiaolong Ma, Mykola Pechenizkiy, Shiwei Liu</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '23</span> &middot; Acceptance rate: 26.1%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '23</span> &middot; Acceptance rate: 26.1% &middot; <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d6d0e41e0b1ed38c76d13c9e417a8f1f-Paper-Conference.pdf" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
 
-  <!-- Second Paper -->
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Jie Ji, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%  &middot; <a href="https://ieeexplore.ieee.org/abstract/document/10203894" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
 
 </div>
