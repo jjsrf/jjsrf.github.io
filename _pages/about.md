@@ -57,7 +57,7 @@ Selected Publications
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%  &middot; <a href="https://ieeexplore.ieee.org/abstract/document/10203894" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+          style="text-decoration: none; color: #a13b3b;">Paper Link</a>
     </p>  
   </div>
   
@@ -77,7 +77,7 @@ Selected Publications
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9% &middot; <a href="https://arxiv.org/abs/2407.02813" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+          style="text-decoration: none; color: #a13b3b;">Paper Link</a>
     </p>  
   </div>
 
@@ -88,7 +88,7 @@ Selected Publications
     &middot; Acceptance rate: 31% &middot; <a href="https://openreview.net/forum?id=60lNoatp7u" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+          style="text-decoration: none; color: #a13b3b;">Paper Link</a>
     </p>  
   </div>
   
