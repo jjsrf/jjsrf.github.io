@@ -210,7 +210,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: True
     permalink: /:collection/:path/
   portfolio:
     output: false
