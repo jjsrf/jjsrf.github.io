@@ -22,7 +22,6 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
       overflow-y: auto; /* Enable vertical scrolling */
       background-color: #f9f9f9; /* Light background color */
       margin-bottom: 30px;
-      margin: 0 auto; /* Center the container */
     }
     .news-container h2 {
       margin: 0 0 10px; /* Compact title spacing */
@@ -31,7 +30,7 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
     }
     .news-item {
       margin: 0;
-      padding: 1px 0; /* Reduce padding for compactness */
+      padding: 0.5px 0; /* Reduce padding for compactness */
       font-size: 14px; /* Smaller font for compact display */
       color: #555; /* Slightly muted text color */
     }
