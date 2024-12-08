@@ -35,9 +35,9 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
       color: #555; /* Slightly muted text color */
     }
   </style>
+</div>
 
 🔥 News
-======
   <div class="news-container">
     <p class="news-item">09/2024, One paper is accepted in NeurIPS 2024.</p>
     <p class="news-item">09/2024, One paper is accepted in S&P 2025.</p>
@@ -48,7 +48,6 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
     <p class="news-item">02/2023, One paper is accepted with spotlight presentation at the ICLR SNN workshop.</p>
     <p class="news-item">02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.</p>
   </div>
-</div>
 
 
 Selected Publications
