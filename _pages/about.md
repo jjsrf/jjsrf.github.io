@@ -13,13 +13,15 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
 <div style="font-family: Arial, sans-serif; margin-top: 20px;">
   <style>
     .news-container {
-      width: 300px; /* Fixed width */
+      width: 100%; /* Occupies the full width of the page */
+      max-width: 1200px; /* Optional: set a maximum width for readability */
       height: 200px; /* Fixed height */
       border: 1px solid #dfdfdf; /* Light gray border */
       border-radius: 5px;
       padding: 10px;
       overflow-y: auto; /* Enable vertical scrolling */
       background-color: #f9f9f9; /* Light background color */
+      margin: 0 auto; /* Center the container */
     }
     .news-container h2 {
       margin: 0 0 10px; /* Compact title spacing */
