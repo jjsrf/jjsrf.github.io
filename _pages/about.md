@@ -44,7 +44,7 @@ Selected Publications
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       border-color: #d0d0d0;  /* Slightly darker gray color on hover */
     }
-        .pdf-logo {
+    .pdf-logo {
       position: absolute;
       bottom: 10px; /* Adjust as needed */
       right: 10px; /* Adjust as needed */
