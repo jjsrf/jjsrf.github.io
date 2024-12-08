@@ -52,7 +52,7 @@ Selected Publications
 
    <div class="publication-card">
     <h3 style="margin: 5px 0;">Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Jie Ji, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li*, Jie Ji*, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%  &middot; <a href="https://ieeexplore.ieee.org/abstract/document/10203894" 
           target="_blank" 
           rel="noopener noreferrer" 
@@ -62,7 +62,7 @@ Selected Publications
   
    <div class="publication-card">
     <h3 style="margin: 5px 0;">Advancing Dynamic Sparse Training by Exploring Optimization Opportunities</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji*, Gen Li*, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5% &middot; <a href="https://openreview.net/forum?id=szRHR9XGrY" 
           target="_blank" 
           rel="noopener noreferrer" 
