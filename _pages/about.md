@@ -15,22 +15,22 @@ Gen Li is a third-year Ph.D. student at Clemson University, under the supervisio
     .news-container {
       width: 100%; /* Occupies the full width of the page */
       max-width: 1200px; /* Optional: set a maximum width for readability */
-      height: 400px; /* Fixed height */
+      height: 300px; /* Fixed height */
       border: 1px solid #dfdfdf; /* Light gray border */
       border-radius: 5px;
-      padding: 10px;
+      padding: 7px;
       overflow-y: auto; /* Enable vertical scrolling */
       background-color: #f9f9f9; /* Light background color */
       margin: 0 auto; /* Center the container */
     }
     .news-container h2 {
       margin: 0 0 10px; /* Compact title spacing */
-      font-size: 18px; /* Adjust font size */
+      font-size: 15px; /* Adjust font size */
       color: #333; /* Darker text for title */
     }
     .news-item {
       margin: 0;
-      padding: 2px 0; /* Reduce padding for compactness */
+      padding: 1px 0; /* Reduce padding for compactness */
       font-size: 14px; /* Smaller font for compact display */
       color: #555; /* Slightly muted text color */
     }
@@ -82,12 +82,14 @@ Selected Publications
   <!-- First Paper -->
   
   <div class="publication-card">
+   <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="publication-card" target="_blank" rel="noopener noreferrer">
     <h3 style="margin: 5px 0;">Adversarial Robust ViT-based Automatic Modulation Recognition in Practical Deep Learning-based Wireless Systems</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Chun-Chih Lin, Xiaonan Zhang, Xiaolong Ma, Linke Guo</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3%</p>
-    <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
+<!--     <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
       <img src="images/pdf.png" alt="PDF Logo" />
-    </a>
+    </a> -->
+   </a>
   </div>
 
   <div class="publication-card">
