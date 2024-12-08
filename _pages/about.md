@@ -42,35 +42,54 @@ Selected Publications
   
 
   <div class="publication-card">
-    <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training
-</h3>
+    <h3 style="margin: 5px 0;">A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Jingjing Fu, Fatemeh Afghah, Linke Guo, Xiaoyong Yuan, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8%</p>    
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">NeurIPS '24</span> &middot; Acceptance rate: 25.8% &middot; <a href="https://openreview.net/forum?id=MJgMMqMDu4" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #a13b3b;">Paper Link</a>
+    </p>  
   </div>
 
-  <!-- Second Paper -->
-  <div class="publication-card">
+   <div class="publication-card">
     <h3 style="margin: 5px 0;">Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li*, Jie Ji*, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%</p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Jie Ji, Minghai Qin, Wei Niu, Bin Ren, Fatemeh Afghah, Linke Guo, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">CVPR '23</span> &middot; Highlight paper: top 2.5%  &middot; <a href="https://ieeexplore.ieee.org/abstract/document/10203894" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
   
-  <div class="publication-card">
+   <div class="publication-card">
     <h3 style="margin: 5px 0;">Advancing Dynamic Sparse Training by Exploring Optimization Opportunities</h3>
-    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji, Gen Li, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5%</p>
+    <p style="margin: 5px 0; color: #4fb2d9;"><i>Jie Ji*, Gen Li*, Lu Yin, Minghai Qin, Geng Yuan, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICML '24</span> &middot; Acceptance rate: 27.5% &middot; <a href="https://openreview.net/forum?id=szRHR9XGrY" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #a13b3b;">Paper Link</a>
+    </p>  
   </div>
   
   <div class="publication-card">
     <h3 style="margin: 5px 0;">Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Zhihao Shu, Jie Ji, Minghai Qin, Fatemeh Afghah, Wei Niu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9%</p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ECCV '24</span> &middot; Acceptance rate: 27.9% &middot; <a href="https://arxiv.org/abs/2407.02813" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
 
   <div class="publication-card">
     <h3 style="margin: 5px 0;">NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization</h3>
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Lu Yin, Jie Ji, Wei Niu, Minghai Qin, Bin Ren, Linke Guo, Shiwei Liu, Xiaolong Ma</i></p>
-    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span></p>
+    <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">ICLR '24</span>
+    &middot; Acceptance rate: 31% &middot; <a href="https://openreview.net/forum?id=60lNoatp7u" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style="text-decoration: none; color: #007BFF;">Paper Link</a>
+    </p>  
   </div>
   
 
