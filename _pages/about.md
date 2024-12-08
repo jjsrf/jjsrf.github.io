@@ -87,7 +87,7 @@ Selected Publications
     <p style="margin: 5px 0; color: #4fb2d9;"><i>Gen Li, Chun-Chih Lin, Xiaonan Zhang, Xiaolong Ma, Linke Guo</i></p>
     <p style="margin: 5px 0;"><span style="background-color: #f2dede; padding: 2px 5px; border-radius: 3px;">S&P '25</span> &middot; Acceptance rate: 14.3%</p>
     <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a030/21B7Qkjltcs" class="pdf-logo" target="_blank" rel="noopener noreferrer" title="View PDF">
-      <img src="pdf.png" alt="PDF Logo" />
+      <img src="pdf.png" alt="PDF Logo"/>
     </a>
   </div>
 
