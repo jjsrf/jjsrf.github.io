@@ -20,10 +20,10 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
   
-  <div class="wechat-contact">
+<!--   <div class="wechat-contact">
       <i class="fab fa-weixin"></i>
       <a href="{{ site.author.wechat_qr }}" target="_blank">WeChat</a>
-  </div>
+  </div> -->
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
@@ -41,6 +41,13 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if site.author.wechat_qr %}
+  <li>
+    <a href="{{ site.author.wechat_qr }}" target="_blank">
+      <i class="fab fa-weixin icon-pad-right"></i>WeChat
+    </a>
+  </li>
+{% endif %}
       
 
 
