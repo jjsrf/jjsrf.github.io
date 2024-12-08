@@ -10,6 +10,16 @@ redirect_from:
 
 Jie Ji is a second-year Ph.D. student at Clemson University, under the supervision of Prof. [Xiaolong Ma](https://xiaolongma2016.com/). Her primary research focuses on deep learning, sparse neural networks, and efficient on-device model optimization.
 
+
+🔥 News
+======
+  <div class="news-container">
+    <p class="news-item">09/2024, One paper is accepted in NeurIPS 2024.</p>
+    <p class="news-item">07/2024, One paper is accepted in ECCV 2024.</p>
+    <p class="news-item">05/2024, One papers is accepted in ICML 2024.</p>
+    <p class="news-item">01/2024, One paper is accepted in ICLR 2024.</p>
+    <p class="news-item">02/2023, One paper is accepted as highlight paper (top 2.5%) in CVPR 2023.</p>
+  </div>
 🔥 News
 ======
 09/2024, One paper is accepted in NeurIPS 2024
